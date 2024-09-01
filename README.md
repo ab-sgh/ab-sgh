@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ab-sgh
+- 👋 Hi, I’m Abhinav Singh
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently studying Computer Science at IIT Bombay
 - 📫 How to reach me: abhinavsingh99311@gmail.com
